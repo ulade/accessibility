@@ -5,6 +5,8 @@ bus timetable published.
 
 YOUR BUS is an application to provide the next immediate bus arrival time given the bus no and name of the bus stop.
 
-It is developed using WAMPServer framework and is deployed on to an AWS EC2 instance and can be accessed using 
+It is developed using PHP and deployed to Apache server locally.
+
+For the demo purpose, it is deployed on to an AWS EC2 instance and can be accessed using 
 
 http://35.178.92.127/accessibility/searchbus 
